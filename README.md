@@ -1,6 +1,6 @@
-# ShoppingCart (http://hits.dwyl.io/ikismail/ShoppingCart.svg)](http://hits.dwyl.io/ikismail/ShoppingCart)
+# ShoppingCart
 
-An end to end **Ecommerce web Application using Spring MVC** with multiple
+An **Ecommerce web Application using Spring MVC** with multiple
 modules
 
 ### Functionalities:
@@ -14,13 +14,7 @@ modules
 * Admin can edit the product details
 * Admin can delete the product from the list
 
-3. **Spring Security**
-
-* User can login to the site
-* The entire site will change according the role. Whether the client is User or Admin
-* User can logout after completing.
-
-4. **Spring WebFlow**
+3. **Spring WebFlow**
 
 * After adding products, the cart the user can checkout using spring WebFlow
 * Confirming User Details
@@ -81,7 +75,7 @@ modules
 
 10. Run the server.
 
-### ScreenShots:
+### Some of the screenshots:
 
 * Home Page:
 
@@ -91,7 +85,4 @@ modules
 
 ![Alt text](https://github.com/ikismail/ShoppingCart/blob/master/src/main/webapp/WEB-INF/resource/images/screenshots/ContactUs.png)
 
-
-#### Contribution
-
-Contributors are most welcome.
+### I have created this during my internship as a web developer! Cheers!
